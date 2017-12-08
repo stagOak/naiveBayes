@@ -1,0 +1,2 @@
+# naiveBayes
+Implement Naive Bayes
